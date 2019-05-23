@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zemberek-full">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zemberek-full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
